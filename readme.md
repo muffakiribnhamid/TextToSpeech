@@ -9,4 +9,4 @@ Made This App using basic Android and Kotlin <br>Used <a href"https://developer.
     <li><b>Shared Prefrence</b></li>
 </ul>
 
-<img style="height: 150px;" src="https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201050.png" alt="">
+<img style="height: 500px;" src="https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201050.png" alt="">
