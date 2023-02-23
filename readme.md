@@ -13,5 +13,5 @@ Made This App using basic Android and Kotlin <br>Used <a href"https://developer.
 <h2>Some ScreenShots</h2>
 
 <img style="height: 500px;" src="https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201050.png" alt="">
-<img style="height: 500px;" src="[https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201050.png](https://github.com/muffakiribnhamid/TextToSpeech/blob/master/Screenshot_20230223_201111.png)" alt="">
-<img style="height: 500px;" src="[https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201050.png](https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201111.png)" alt="">
+<img style="height: 500px;" src="https://github.com/muffakiribnhamid/TextToSpeech/blob/master/Screenshot_20230223_201111.png" alt="">
+<img style="height: 500px;" src="https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201111.png" alt="">
