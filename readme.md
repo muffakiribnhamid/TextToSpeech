@@ -16,3 +16,6 @@ Made This App using basic Android and Kotlin <br>Used <a href"https://developer.
 |---------------------------------|---------------------------------|
 | ![third](https://raw.githubusercontent.com/muffakiribnhamid/TextToSpeech/master/Screenshot_20230223_201111.png) |
 
+
+<h2>Thanks</h2>
+
